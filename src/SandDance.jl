@@ -22,7 +22,7 @@ mutable struct SandDanceWindow
             app = Application()
         end
 
-        w = Window(app, main_html_path, options = Dict("title" => "SandDance"))
+        w = Window(app, main_html_path, options=Dict("title" => "SandDance"))
 
         it = IteratorInterfaceExtensions.getiterator(data)
 
