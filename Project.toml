@@ -15,7 +15,7 @@ URIParser = "30578b45-9adc-5946-b283-645ec420af67"
 
 [compat]
 DataValues = "0.4.4"
-Electron = "0.2, 0.3, 0.4, 1, 2, 3.0, 4"
+Electron = "0.2, 0.3, 0.4, 1, 2, 3.0, 4, 5"
 FilePaths = "0.8"
 IterableTables = "0.8.3, 0.9, 0.10, 0.11, 1"
 IteratorInterfaceExtensions = "0.1.1, 1"
