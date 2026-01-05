@@ -19,7 +19,7 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.1",
     "typescript": "^3.7.5",
-    "vega": "^5.11.1"
+    "vega": "^6.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
